@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->👋 Hello there! Welcome to my GitHub profile!
 
 🔍 About Me:
-I'm passionate about learning and exploring new technologies. I love collaborating with others to solve problems and create innovative solutions. My journey in the world of programming is just beginning, and I'm excited to share what I learn along the way.
+Hello I'm Niyaz and am passionate about learning and exploring new technologies. I love collaborating with others to solve problems and create innovative solutions. My journey in the world of programming is just beginning, and I'm excited to share what I learn along the way.
 
 🌱 Currently Learning:
 I'm diving deep into various programming languages and frameworks, including Python, JavaScript, and more. Additionally, I'm exploring topics like machine learning, web development.
